@@ -1,0 +1,12 @@
+# Set the default behavior, in case people don't have core.autocrlf set.
+* text=auto
+
+# Handle specific file types
+*.xml text eol=lf
+*.sh text eol=lf
+*.bat text eol=crlf
+
+# Ensure binary files are treated as binary
+*.jpg binary
+*.png binary
+*.gif binary
