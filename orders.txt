@@ -1,0 +1,5 @@
+emad: Latte, Sugar one teaspoon, Large
+umer: Latte, Sugar two teaspoon, Large
+emad: Tea, Sugar one teaspoon, Medium
+ emad : Black Coffee, Sugar one teaspoon, Small
+aashir: Latte, No Sugar, Large
